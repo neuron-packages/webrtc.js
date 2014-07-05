@@ -22,5 +22,20 @@
     "precommit-hook": "0.3.8",
     "browserify": "2.22.0",
     "tape": "2.x"
+  },
+  "cortex": {
+    "dependencies": {
+      "util": "^1.0.4",
+      "webrtcsupport": "^0.7.3",
+      "rtcpeerconnection": "^2.4.1",
+      "wildemitter": "^1.0.1",
+      "mockconsole": "^0.0.1",
+      "localmedia": "^1.0.2"
+    },
+    "asyncDependencies": {},
+    "devDependencies": {},
+    "directories": {},
+    "engines": {},
+    "scripts": {}
   }
 }
